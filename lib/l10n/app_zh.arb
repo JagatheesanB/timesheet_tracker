@@ -1,0 +1,18 @@
+{
+  "@@locale": "zh",
+  "taskList": "任务清单",
+  "day": "天",
+  "week": "周",
+  "month": "月",
+  "attendance": "考勤",
+  "welcome": "欢迎，",
+  "tasks": "任务",
+  "attendanceHistory": "考勤历史",
+  "completedTask": "已完成任务",
+  "historyTask": "时间表历史",
+  "addTask": "添加任务",
+  "logout": "退出登录",
+  "login": "登录",
+  "submittask": "提交任务",
+  "taskname": "任务名称"
+}

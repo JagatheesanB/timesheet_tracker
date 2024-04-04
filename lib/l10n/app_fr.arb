@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "taskList": "tâches",
+  "day": "Jour",
+  "week": "Semaine",
+  "month": "Mois",
+  "attendance": "Présence",
+  "welcome": "Bienvenue,",
+  "tasks": "Tâches",
+  "attendanceHistory": "Historique de présence",
+  "completedTask": "Tâche terminée",
+  "historyTask": "Historique des feuilles de temps",
+  "addTask": "Ajouter une tâche",
+  "logout": "Déconnexion",
+  "login": "Connexion",
+  "submittask": "Soumettre la tâche",
+  "taskname": "Nom de la tâche"
+}

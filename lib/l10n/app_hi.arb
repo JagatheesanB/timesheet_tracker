@@ -1,0 +1,18 @@
+{
+  "@@locale": "hi",
+  "taskList": "कार्य सूची",
+  "day": "दिन",
+  "week": "सप्ताह",
+  "month": "महीना",
+  "attendance": "उपस्थिति",
+  "welcome": "स्वागत है,",
+  "tasks": "कार्य",
+  "attendanceHistory": "उपस्थिति इतिहास",
+  "completedTask": "पूरा किया गया कार्य",
+  "historyTask": "टाइमशीट इतिहास",
+  "addTask": "कार्य जोड़ें",
+  "logout": "लॉग आउट",
+  "login": "लॉग इन करें",
+  "submittask": "कार्य सबमिट",
+  "taskname": "कार्य का नाम"
+}

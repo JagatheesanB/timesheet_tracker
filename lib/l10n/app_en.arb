@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "taskList": "Task List",
+  "day": "Day",
+  "week": "Week",
+  "month": "Month",
+  "attendance": "Attendance",
+  "welcome": "Welcome,",
+  "tasks": "Tasks",
+  "attendanceHistory": "Attendance History",
+  "completedTask": "Completed Task",
+  "historyTask": "Timesheet History",
+  "addTask": "Add Task",
+  "logout": "Log Out",
+  "login": "Login",
+  "submittask": "Submit Task",
+  "taskname":"Task Name"
+}
